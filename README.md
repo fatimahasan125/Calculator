@@ -11,3 +11,4 @@ The GUI is shown below:
 ![calc](https://user-images.githubusercontent.com/68266703/120942614-9024d000-c743-11eb-968c-c70468c681b0.png)
 
 
+All the functionalities in the image are implemented. The GUI is created using Swing in Java, which is a GUI widget toolkit. 
